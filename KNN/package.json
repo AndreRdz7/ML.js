@@ -1,12 +1,12 @@
 {
-  "name": "knn-tf",
+  "name": "knn-with-tensorflow",
   "version": "1.0.0",
-  "description": "",
+  "description": "Machine Learning with JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "David André Rordríguez Méndez (AndreRdz7)",
   "license": "ISC",
   "dependencies": {
     "@tensorflow/tfjs-node": "^0.1.17",
